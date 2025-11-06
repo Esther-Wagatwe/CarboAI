@@ -1,4 +1,3 @@
-```markdown
 # 🥗 CarboAI: AI-Powered Carbohydrate Estimation from Food Images  
 
 **CarboAI** is an AI-driven system developed to automatically estimate the **carbohydrate content** of meals using food images. This project integrates **YOLOv11 for object detection** and a **Vision Transformer (ViT)** model for carbohydrate estimation, providing a complete pipeline from image capture to nutritional analysis. The system aims to support **dietary monitoring and self-management** for individuals with **Type 2 diabetes**, enabling users to make informed dietary choices through an accessible and automated approach.  
